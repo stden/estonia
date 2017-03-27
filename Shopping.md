@@ -11,13 +11,17 @@ The supermarket brands in Tallinn are as follows:
 | Rimi | https://www.rimi.ee/ | http://rimibaltic.com/ |
 | Maxima | http://www.maxima.ee/ | N/A |
 | Selver | https://www.selver.ee/ | N/A |
+| Prisma | https://prismamarket.ee/ | https://prismamarket.ee/ |
+| comarket | http://www.comarket.ee/ | http://www.comarket.ee/en/ |
 
 ## Shopping Malls
 
-AVM ler (keskus):
-- Ulemiste
-- Kristiine
-vs...
+- Ulemiste Keskus
+- Kristiine Keskus
+- Viru Keskus
+- Kaubamaja
+- Solaris Keskus
 
-Kiyafet
-Elektronik
+## Clothes
+
+## Electronics
