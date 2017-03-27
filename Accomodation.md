@@ -1,14 +1,14 @@
 # Accomodation
 
-## Short-term accomodation
+## 1. Short-term accomodation
 
-### AirBnb
+### 1.1 AirBnb
 
-### Couchsurfing
+### 1.2 Couchsurfing
 
-### Hotels
+### 1.3 Hotels
 
-## Long-term accomodation
+## 2. Long-term accomodation
 
 Websites:
 - city24
