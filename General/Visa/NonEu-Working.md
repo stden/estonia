@@ -8,11 +8,15 @@ For the employee:
 * Apply for residency card ASAP!
 * Apply for personal number
 * Apply as Tax Residency (R-Form)
-* Retrieve your residency card and use it (bank account, mobile-id, digital signing, ...)
+* Retrieve your residency card
+ * * Use your card (bank account, mobile-id, digital signing, ...)
+ * * Apply to and attend welcoming modules
 
 Family of the employee:
 
 * Get an Estonian D-Visa (better to apply together with the Employee)
 * Travel to Estonia
 * Apply for residency card ASAP!
-* Retrieve your residency card and use it (bank account, mobile-id, digital signing, ...)
+* Retrieve your residency card
+ * * Use your card (bank account, mobile-id, digital signing, ...)
+ * * Apply to and attend welcoming modules
