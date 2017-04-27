@@ -1,6 +1,6 @@
 # Non-EU Working
 
-For the employee:
+Steps for the employee:
 
 * Get an offer from or sign an agreement with an Estonian company
 * Get an Estonian D-Visa
