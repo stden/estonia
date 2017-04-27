@@ -1,6 +1,6 @@
 # Non-EU Working
 
-Basic steps are:
+For the employee:
 
 * Get an offer from or sign an agreement with an Estonian company
 * Get an Estonian D-Visa
@@ -8,4 +8,11 @@ Basic steps are:
 * Apply for residency card ASAP!
 * Apply for personal number
 * Apply as Tax Residency (R-Form)
+* Retrieve your residency card and use it (bank account, mobile-id, digital signing, ...)
+
+Family of the employee:
+
+* Get an Estonian D-Visa (better to apply together with the Employee)
+* Travel to Estonia
+* Apply for residency card ASAP!
 * Retrieve your residency card and use it (bank account, mobile-id, digital signing, ...)
