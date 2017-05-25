@@ -11,6 +11,9 @@
 - http://europa.eu/youreurope/citizens/vehicles/driving-licence/driving-licence-recognition-validity/estonia/index_en.htm
 - https://www.mnt.ee/eng/driver/driving-licence/foreign-driving-licence
 
+## Buses To Other Cities
+- https://luxexpress.eu/en/tallinn-stpetersburg
+
 ## Other
 
 Estonian Road Administration E-Service: 
