@@ -1,9 +1,16 @@
 # Working
 
-## Job Search Portals
+## Job Search
 
-* http://www.cv.ee/english/
+### Government
 * https://www.workinestonia.com/latest-offers/
+* https://www.tootukassa.ee/eng
+* http://www.avalikteenistus.ee/konkursiveeb (Estonian)
+
+### Private
+* http://www.cv.ee/english/
+* https://www.cvkeskus.ee/
+* http://www.ej.ee/eng/
 
 
 ## Non-EU Working
