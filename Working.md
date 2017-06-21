@@ -1,4 +1,6 @@
-# Non-EU Working
+# Working
+
+## Non-EU Working
 
 Steps for the employee:
 
