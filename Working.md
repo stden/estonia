@@ -7,6 +7,7 @@
 * https://www.tootukassa.ee/eng
 
 ### Private sites
+* https://www.linkedin.com/jobs/view-all/?country=ee
 * http://www.cv.ee/english/
 * https://www.cvkeskus.ee/
 * http://www.ej.ee/eng/
