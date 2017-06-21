@@ -3,6 +3,7 @@
 ## Info Websites
 
 ### Official
+* https://www.visittallinn.ee/eng
 * http://www.tallinn.ee/eng/
 
 ### Other
