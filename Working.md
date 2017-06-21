@@ -1,5 +1,11 @@
 # Working
 
+## Job Search Portals
+
+* http://www.cv.ee/english/
+* https://www.workinestonia.com/latest-offers/
+
+
 ## Non-EU Working
 
 Steps for the employee:
