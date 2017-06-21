@@ -4,7 +4,7 @@
 
 * https://www.airbnb.com/
 * https://www.couchsurfing.com/
-* Hotels
+* https://www.booking.com/city/ee/tallinn.html
 
 ## 2. Long-term 
 
