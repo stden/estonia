@@ -1,13 +1,11 @@
 # Residency
 
-## 1. Benefits
+* @TODO Benefits
+* @TODO Eligibility
+* @TODO Application
+* @TODO Completion
+* @TODO Residency card
+* @TODO eesti.ee
 
-## 2. Eligibility
-
-## 3. Application
-
-## 4. Completion
-
-### Residency card
-
-### eesti.ee
+## Welcoming Programme
+* https://www.settleinestonia.ee/
