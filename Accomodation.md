@@ -10,8 +10,5 @@
 
 ## 2. Long-term accomodation
 
-Websites:
-- city24
-- kv
-
-### Renting a place
+- http://www.city24.ee/en/
+- http://kinnisvaraportaal-kv-ee.postimees.ee/
