@@ -23,5 +23,21 @@ The supermarket brands in Tallinn are as follows:
 - Solaris Keskus
 
 ## Clothes
+These are the clothing brands in Estonia:
+- H&M
+- Zara, Zara-Home
+- Brooks Brothers
 
 ## Electronics
+- Euronics (https://www.euronics.ee/)
+- Klick (https://www.klick.ee/)
+
+## Second Hand
+
+## Online
+* https://www.okidoki.ee/
+* https://osta-ee.postimees.ee/
+* https://www.kuldnebors.ee/
+
+
+
