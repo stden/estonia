@@ -33,11 +33,12 @@ These are the clothing brands in Estonia:
 - Klick (https://www.klick.ee/)
 
 ## Second Hand
+- Humana
 
 ## Online
 * https://www.okidoki.ee/
 * https://osta-ee.postimees.ee/
 * https://www.kuldnebors.ee/
-
+* https://buduaar.ee/turg/
 
 
