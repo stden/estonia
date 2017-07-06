@@ -3,6 +3,8 @@
 ## Ühiskaart
 - Pilet.ee
 - Personalization and free transport
+- http://www.tallinn.ee/eng/pilet/
+- https://tallinn.pilet.ee/buy
 
 ## Trip planning
 - Soiduplan
