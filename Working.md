@@ -13,6 +13,9 @@
 * http://www.ej.ee/eng/
 * https://work.ee/en/
 
+## Global sites
+* Glassdoor: https://www.glassdoor.com/Job/tallinn-jobs-SRCH_IL.0,7_IC2775919_IP3.htm
+
 ### Company werbsites
 * https://fortumo.com/careers/
 * https://guardtime.com/about/jobs
@@ -20,6 +23,7 @@
 * https://www.pipedrive.com/en/jobs
 * https://www.realeyesit.com/careers
 * Starship Technologies: https://www.starship.xyz/careers/
+* Tallinn Airport: https://www.tallinn-airport.ee/en/about-us/join-us/
 * https://testlio.com/jobs/#otherwise-talented
 * TransferWise: https://transferwise.com/jobs/
 * Twilio: https://www.twilio.com/company/jobs
