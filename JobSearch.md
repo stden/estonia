@@ -4,17 +4,18 @@
 * https://www.workinestonia.com/latest-offers/
 * https://www.tootukassa.ee/eng
 
-## Private sites
+## Estonian sites
 * https://www.linkedin.com/jobs/view-all/?country=ee
 * http://www.cv.ee/english/
 * https://www.cvkeskus.ee/
 * http://www.ej.ee/eng/
 * https://work.ee/en/
+* Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 
 ## Global sites
 * Glassdoor: https://www.glassdoor.com/Job/tallinn-jobs-SRCH_IL.0,7_IC2775919_IP3.htm
 
-## Company websites
+## Companies' own websites
 * https://fortumo.com/careers/
 * https://guardtime.com/about/jobs
 * https://lingvist.com/jobs/
@@ -26,5 +27,3 @@
 * TransferWise: https://transferwise.com/jobs/
 * Twilio: https://www.twilio.com/company/jobs
 * https://zeroturnaround.com/company/careers/
-
-Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
