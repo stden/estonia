@@ -21,7 +21,8 @@
 * https://www.realeyesit.com/careers
 * Starship Technologies: https://www.starship.xyz/careers/
 * https://testlio.com/jobs/#otherwise-talented
-* https://www.twilio.com/company/jobs
+* TransferWise: https://transferwise.com/jobs/
+* Twilio: https://www.twilio.com/company/jobs
 * https://zeroturnaround.com/company/careers/
 
 Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
