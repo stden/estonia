@@ -10,7 +10,8 @@
 * https://www.cvkeskus.ee/
 * http://www.ej.ee/eng/
 * https://work.ee/en/
-* Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
+
+Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 
 ## Global sites
 * Glassdoor: https://www.glassdoor.com/Job/tallinn-jobs-SRCH_IL.0,7_IC2775919_IP3.htm
@@ -27,3 +28,5 @@
 * TransferWise: https://transferwise.com/jobs/
 * Twilio: https://www.twilio.com/company/jobs
 * https://zeroturnaround.com/company/careers/
+
+Other list of companies: http://www.startupestonia.ee/startups
