@@ -21,7 +21,7 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 
 ## Companies' own websites
 
-* Taxify: https://taxify.eu/careers/
+* **Taxify**: https://taxify.eu/careers/
 * Fortumo: https://fortumo.com/careers/
 * guardtime: https://guardtime.com/about/jobs
 * Lingvist: https://lingvist.com/jobs/
