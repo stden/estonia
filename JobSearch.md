@@ -33,5 +33,6 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 * TransferWise: https://transferwise.com/jobs/
 * Twilio: https://www.twilio.com/company/jobs
 * Zeroturnaround: https://zeroturnaround.com/company/careers/
+* Qminder: https://www.qminder.com/jobs/
 
 Other list of companies: http://www.startupestonia.ee/startups
