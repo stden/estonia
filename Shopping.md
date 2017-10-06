@@ -20,7 +20,7 @@ The supermarket brands in Tallinn are as follows:
 | -- | -- | -- | -- | -- |
 | Keskturg | ? | ? | Keldrimäe 9, 10113 Tallinn | Grocery, fish, bakery, clothing, handicraft |
 | Viru Turg | Everyday, 9AM-5PM | ? | Mere puiestee 1, 10111 Tallinn | Clothing, handicraft |
-| Tallinna Kalaturg | Saturday, 10AM-4PM | http://www.tallinnaturud.ee/kalaturg/asukoht-kontakt/ | Fish |
+| Tallinna Kalaturg | Saturday, 10AM-4PM | Kalaranna, 10415 Tallinn  | [Website](http://www.tallinnaturud.ee/kalaturg/asukoht-kontakt/) | Fish |
 
 
 
