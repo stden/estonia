@@ -4,7 +4,7 @@
 
 The supermarket brands in Tallinn are as follows:
 
-@TODO: Add online shoppong availability
+@TODO: Add online shopping availability
 
 | Name | Estonian website | English website |
 | ---- | --- | --- |
@@ -13,6 +13,16 @@ The supermarket brands in Tallinn are as follows:
 | Selver | https://www.selver.ee/ | N/A |
 | Prisma | https://prismamarket.ee/ | https://prismamarket.ee/ |
 | comarket | http://www.comarket.ee/ | http://www.comarket.ee/en/ |
+
+## Bazaars
+
+| Name | Open | Address | Website | Shops |
+| -- | -- | -- | -- | -- |
+| Keskturg | ? | ? | Keldrimäe 9, 10113 Tallinn | Grocery, fish, bakery, clothing, handicraft |
+| Viru Turg | Everyday, 9AM-5PM | ? | Mere puiestee 1, 10111 Tallinn | Clothing, handicraft |
+| Tallinna Kalaturg | Saturday, 10AM-4PM | http://www.tallinnaturud.ee/kalaturg/asukoht-kontakt/ | Fish |
+
+
 
 ## Shopping Malls
 
