@@ -11,6 +11,7 @@
 * https://www.cvkeskus.ee/
 * http://www.ej.ee/eng/
 * https://work.ee/en/
+* https://magicmondayz.com/
 
 Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 
