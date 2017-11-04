@@ -21,6 +21,7 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 * Linkedin: https://www.linkedin.com/jobs/view-all/?country=ee
 * Hackernews: https://news.ycombinator.com/jobs and https://news.ycombinator.com/item?id=15384262 (October 2017)
 * Indeed: https://www.indeed.com/
+* Teqhire: https://www.teqhire.com/en/
 
 ## Companies' own websites
 
