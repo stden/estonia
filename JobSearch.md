@@ -15,6 +15,10 @@
 
 Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 
+## European Union
+
+* EPSO: https://epso.europa.eu/apply/job-offers_en?contract=All&grade=All&institution=All&location=203
+
 ## Global sites
 
 * Glassdoor: https://www.glassdoor.com/Job/tallinn-jobs-SRCH_IL.0,7_IC2775919_IP3.htm
