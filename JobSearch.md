@@ -19,7 +19,7 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 
 * Glassdoor: https://www.glassdoor.com/Job/tallinn-jobs-SRCH_IL.0,7_IC2775919_IP3.htm
 * Linkedin: https://www.linkedin.com/jobs/view-all/?country=ee
-* Hackernews: https://news.ycombinator.com/jobs and https://news.ycombinator.com/item?id=15384262 (October 2017)
+* Hackernews: https://hn.algolia.com/?query=who%20is%20hiring&sort=byDate&prefix&page=0&dateRange=all&type=story
 * Indeed: https://www.indeed.com/
 * Teqhire: https://www.teqhire.com/en/
 
