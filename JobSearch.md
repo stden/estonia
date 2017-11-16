@@ -33,7 +33,7 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 
 ## Companies' own websites
 
-* **Taxify**: https://taxify.eu/careers/
+* Taxify: https://taxify.eu/careers/
 * Fortumo: https://fortumo.com/careers/
 * guardtime: https://guardtime.com/about/jobs
 * Lingvist: https://lingvist.com/jobs/
@@ -47,4 +47,7 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 * Zeroturnaround: https://zeroturnaround.com/company/careers/
 * Qminder: https://www.qminder.com/jobs/
 
-Other list of companies: http://www.startupestonia.ee/startups
+## Estonian Startups list
+
+* http://www.startupestonia.ee/startups
+* http://lift99.co/mafia/
