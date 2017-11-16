@@ -36,7 +36,7 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 
 Full list: http://lift99.co/mafia/
 
-* Adcasdh: https://www.adcash.com/careers/
+* Adcash: https://www.adcash.com/careers/
 * Fortumo: https://fortumo.com/careers/
 * Funderbeam: https://wire.funderbeam.com/tagged/jobs
 * Lingvist: https://lingvist.com/jobs/
