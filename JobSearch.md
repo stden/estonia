@@ -32,23 +32,33 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 * Who is hiring: https://whoishiring.io/search/58.7969/25.4018/8
 * Workshape: https://www.workshape.io/companies
 
-## Companies' own websites
+## Estonian Mafia
 
+Full list: http://lift99.co/mafia/
+
+* Adcasdh: https://www.adcash.com/careers/
 * Fortumo: https://fortumo.com/careers/
-* guardtime: https://guardtime.com/about/jobs
+* Funderbeam: https://wire.funderbeam.com/tagged/jobs
 * Lingvist: https://lingvist.com/jobs/
+* Monese: https://monese.workable.com/
 * Pipedrive: https://www.pipedrive.com/en/jobs
-* Realeyesit: https://www.realeyesit.com/careers
+* Skeleton Technologies: https://www.skeletontech.com/careers
 * Starship Technologies: https://www.starship.xyz/careers/
-* Tallinn Airport: https://www.tallinn-airport.ee/en/about-us/join-us/
 * Taxify: https://taxify.eu/careers/
 * Testlio: https://testlio.com/jobs/#otherwise-talented
+* Toggl: https://jobs.toggl.com/
 * TransferWise: https://transferwise.com/jobs/
-* Twilio: https://www.twilio.com/company/jobs
 * Zeroturnaround: https://zeroturnaround.com/company/careers/
+
+## Other Estonian Companies
+
+* guardtime: https://guardtime.com/about/jobs
+* Realeyesit: https://www.realeyesit.com/careers
+* Tallinn Airport: https://www.tallinn-airport.ee/en/about-us/join-us/
+* Twilio: https://www.twilio.com/company/jobs
 * Qminder: https://www.qminder.com/jobs/
 
 ## Estonian Startups list
 
 * http://www.startupestonia.ee/startups
-* http://lift99.co/mafia/
+
