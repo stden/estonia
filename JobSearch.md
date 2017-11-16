@@ -34,7 +34,6 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 
 ## Companies' own websites
 
-* Taxify: https://taxify.eu/careers/
 * Fortumo: https://fortumo.com/careers/
 * guardtime: https://guardtime.com/about/jobs
 * Lingvist: https://lingvist.com/jobs/
@@ -42,6 +41,7 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 * Realeyesit: https://www.realeyesit.com/careers
 * Starship Technologies: https://www.starship.xyz/careers/
 * Tallinn Airport: https://www.tallinn-airport.ee/en/about-us/join-us/
+* Taxify: https://taxify.eu/careers/
 * Testlio: https://testlio.com/jobs/#otherwise-talented
 * TransferWise: https://transferwise.com/jobs/
 * Twilio: https://www.twilio.com/company/jobs
