@@ -29,6 +29,7 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 * Indeed: https://www.indeed.com/
 * Jobbatical: https://jobbatical.com/jobs
 * Teqhire: https://www.teqhire.com/en/
+* Who is hiring: https://whoishiring.io/search/58.7969/25.4018/8
 * Workshape: https://www.workshape.io/companies
 
 ## Companies' own websites
