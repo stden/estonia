@@ -22,6 +22,7 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 
 ## Global sites
 
+* Angelist: https://angel.co/jobs
 * Glassdoor: https://www.glassdoor.com/Job/tallinn-jobs-SRCH_IL.0,7_IC2775919_IP3.htm
 * Linkedin: https://www.linkedin.com/jobs/view-all/?country=ee
 * Hackernews: https://hn.algolia.com/?query=who%20is%20hiring&sort=byDate&prefix&page=0&dateRange=all&type=story
