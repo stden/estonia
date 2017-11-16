@@ -27,6 +27,7 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 * Linkedin: https://www.linkedin.com/jobs/view-all/?country=ee
 * Hackernews: https://hn.algolia.com/?query=who%20is%20hiring&sort=byDate&prefix&page=0&dateRange=all&type=story
 * Indeed: https://www.indeed.com/
+* Jobbatical: https://jobbatical.com/jobs
 * Teqhire: https://www.teqhire.com/en/
 * Workshape: https://www.workshape.io/companies
 
