@@ -52,13 +52,11 @@ Full list: http://lift99.co/mafia/
 
 ## Other Estonian Companies
 
+* Creative mobile: https://zeroturnaround.com/company/careers/7b828dfb-cbdd-48f3-b48e-97a9809bf15a/
 * guardtime: https://guardtime.com/about/jobs
 * Realeyesit: https://www.realeyesit.com/careers
 * Tallinn Airport: https://www.tallinn-airport.ee/en/about-us/join-us/
 * Twilio: https://www.twilio.com/company/jobs
 * Qminder: https://www.qminder.com/jobs/
 
-## Estonian Startups list
-
-* http://www.startupestonia.ee/startups
-
+More at here: http://www.startupestonia.ee/startups
