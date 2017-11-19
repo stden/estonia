@@ -1,0 +1,20 @@
+[
+  {
+    "ingredients": [
+      {"name": "Ibuprofen","amount": "200mg"},
+      {"name": "Pseudoephedrine HCL","amount": "30mg"}
+    ],
+    "equivalents": [
+      {
+        "country":"ee",
+        "name":"Dolmen",
+        "link_rx":"http://rx.ee/d/2700-dolmen.html",
+        "link_ra": "http://ravimiregister.ravimiamet.ee/en/default.aspx?pv=HumRavimid.Ravim&vid=a351f08c-774c-4878-a57c-8d588f837370"
+      },
+      {
+        "country":"tr",
+        "name":"Arvales"
+      }
+    ]
+  }
+]
