@@ -46,54 +46,51 @@ Below are companies who are listed in http://www.startupestonia.ee/startups . On
 | Company | Investment | EstonianMafia? | Careers link
 | - | - | - | -
 | Transferwise | €396.4m | Yes | https://transferwise.com/jobs/
+||||
 | Skeleton Technologies | €51.0m | Yes | https://www.skeletontech.com/careers
 | Adcash | €49.9m | Yes | https://www.adcash.com/careers/
 | Pipedrive | €34.7m | Yes | https://www.pipedrive.com/en/jobs
 | crystalsol | €28.0m | - | http://www.crystalsol.com/
 | Agrello | €26.1m | - | 
+||||
 | Change | €17.5m | - | https://getchange.com/careers/
 | Starship Technologies | €17.2m | Yes | https://www.starship.xyz/careers/
 | RealEyes | €16.2m | - | https://www.realeyesit.com/careers
 | ZeroTurnaround | €16.0m | Yes | https://zeroturnaround.com/company/careers/
 | Monese | €16.0m | Yes | https://monese.workable.com/
-| GrabCAD | €14.3m | Yes | http://resources.grabcad.com/jobs/
+| GrabCAD | €14.3m | - | http://resources.grabcad.com/jobs/
 | Fortumo | €10.0m | Yes | https://fortumo.com/careers/
+||||
 | Lingvist | €9.5m | Yes | https://lingvist.com/jobs/
 | Click&Grow | €9.0m | - | https://eu.clickandgrow.com/pages/jobs
+| Bondora | €8.8m | Yes | 
+| Jobbatical | €7.9m | - | 
+| Testlio | €7.5m | Yes | https://testlio.com/jobs/#otherwise-talented
+| Funderbeam | €7.4m | Yes | https://wire.funderbeam.com/tagged/jobs
+| Link Labs | €6.0m | - | 
+| Planet OS | €5.8m | - | 
+||||
+| Erply | €4.2m | - | 
+| Optofluid Technologies | €3.6m | - | 
+| Defendec | €3.3m | - | 
+| Teleport | €2.5m | - | 
+| LeapIN | €2.3m | - | https://www.leapin.eu/careers
+| VitalFields | €2.2m | - | https://www.vitalfields.com/en/talent
+| Insly | €2.2m | - | https://www.insly.com/en/blog/category/job-openings/
+| Taxify | €2.2m | Yes | 
+| Scoro | €1.9m | - | https://www.scoro.com/careers/
+| Plumbr | €1.8m | - | https://plumbr.io/join-us
+| Startup Wise Guys | €1.8m | - | 
+| Fleep | €1.7m | - | 
+| Relax Gaming | €1.7m | - | https://relax-gaming.com/jobs/
+| Investorise | €1.7m | - | 
 
-### Over 1 million euro investment
 
-* Bondora
-* Jobbatical
-* [EM] Testlio: https://testlio.com/jobs/#otherwise-talented
-* [EM] Funderbeam: https://wire.funderbeam.com/tagged/jobs
-* Link Labs
-* Planet OS
-* Erply
-* Optofluid Technologies
-* Defendec
-* Teleport
-* Leapin: https://www.leapin.eu/careers
-* VitalFields: https://www.vitalfields.com/en/talent
-
-* Autobahn
 * Creative mobile: https://zeroturnaround.com/company/careers/#careers-lever
-* Digital Sputnik
-* Fleep
-* Hashtago
-* Insly: https://www.insly.com/en/blog/category/job-openings/
 * Investly: https://investly.workable.com/
-* Investorise
-* Lurento
-* NAS Systems
-* Plumbr: https://plumbr.io/join-us
 * Qminder: https://www.qminder.com/jobs/
-* Relax-Gaming: https://relax-gaming.com/jobs/
-* Scoro: https://www.scoro.com/careers/
 * SymPower: https://www.sympower.net/about/careers
-* Startupwiseguys
-* Teamscope
-* Tebo
+
 
 ## Other Estonian Companies
 
