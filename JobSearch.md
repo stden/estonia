@@ -33,29 +33,72 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 
 ## Estonian Mafia
 
-Full list: http://lift99.co/mafia/
+Full list: 
 
-* Adcash: https://www.adcash.com/careers/
-* Fortumo: https://fortumo.com/careers/
-* Funderbeam: https://wire.funderbeam.com/tagged/jobs
-* Lingvist: https://lingvist.com/jobs/
-* Monese: https://monese.workable.com/
-* Pipedrive: https://www.pipedrive.com/en/jobs
-* Skeleton Technologies: https://www.skeletontech.com/careers
-* Starship Technologies: https://www.starship.xyz/careers/
 * Taxify: https://taxify.eu/careers/
-* Testlio: https://testlio.com/jobs/#otherwise-talented
 * Toggl: https://jobs.toggl.com/
 * TransferWise: https://transferwise.com/jobs/
-* Zeroturnaround: https://zeroturnaround.com/company/careers/
+
+## StartupEstonia Companies
+
+Below are companies who are listed in http://www.startupestonia.ee/startups . Only companies with at least 1 million euro investment are listed here.
+
+The Estonian Mafia (http://lift99.co/mafia/) companies are marked as `[EM]`
+
+### Over 100 million euro investment
+* [EM] TransferWise: https://transferwise.com/jobs/
+
+### Over 10 million euro investment
+* [EM] Skeleton Technologies: https://www.skeletontech.com/careers
+* [EM] Adcash: https://www.adcash.com/careers/
+* [EM] Pipedrive: https://www.pipedrive.com/en/jobs
+* Crystal sol: http://www.crystalsol.com/
+* Agrello
+* Change: https://getchange.com/careers/
+* [EM] Starship Technologies: https://www.starship.xyz/careers/
+* Realeyes: https://www.realeyesit.com/careers
+* [EM] Zeroturnaround: https://zeroturnaround.com/company/careers/
+* [EM] Monese: https://monese.workable.com/
+* GrabCad: http://resources.grabcad.com/jobs/
+* [EM] Fortumo: https://fortumo.com/careers/
+
+### Over 1 million euro investment
+* [EM] Lingvist: https://lingvist.com/jobs/
+* Click&Grow: https://eu.clickandgrow.com/pages/jobs
+* Bondora
+* Jobbatical
+* [EM] Testlio: https://testlio.com/jobs/#otherwise-talented
+* [EM] Funderbeam: https://wire.funderbeam.com/tagged/jobs
+* Link Labs
+* Planet OS
+* Erply
+* Optofluid Technologies
+* Defendec
+* Teleport
+* Leapin: https://www.leapin.eu/careers
+* VitalFields: https://www.vitalfields.com/en/talent
+
+* Autobahn
+* Creative mobile: https://zeroturnaround.com/company/careers/#careers-lever
+* Digital Sputnik
+* Fleep
+* Hashtago
+* Insly: https://www.insly.com/en/blog/category/job-openings/
+* Investly: https://investly.workable.com/
+* Investorise
+* Lurento
+* NAS Systems
+* Plumbr: https://plumbr.io/join-us
+* Qminder: https://www.qminder.com/jobs/
+* Relax-Gaming: https://relax-gaming.com/jobs/
+* Scoro: https://www.scoro.com/careers/
+* SymPower: https://www.sympower.net/about/careers
+* Startupwiseguys
+* Teamscope
+* Tebo
 
 ## Other Estonian Companies
 
-* Creative mobile: https://zeroturnaround.com/company/careers/7b828dfb-cbdd-48f3-b48e-97a9809bf15a/
 * guardtime: https://guardtime.com/about/jobs
-* Realeyesit: https://www.realeyesit.com/careers
 * Tallinn Airport: https://www.tallinn-airport.ee/en/about-us/join-us/
 * Twilio: https://www.twilio.com/company/jobs
-* Qminder: https://www.qminder.com/jobs/
-
-More at here: http://www.startupestonia.ee/startups
