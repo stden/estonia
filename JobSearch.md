@@ -43,28 +43,26 @@ Full list:
 
 Below are companies who are listed in http://www.startupestonia.ee/startups . Only companies with at least 1 million euro investment are listed here.
 
-The Estonian Mafia (http://lift99.co/mafia/) companies are marked as `[EM]`
-
-### Over 100 million euro investment
-* [EM] TransferWise: https://transferwise.com/jobs/
-
-### Over 10 million euro investment
-* [EM] Skeleton Technologies: https://www.skeletontech.com/careers
-* [EM] Adcash: https://www.adcash.com/careers/
-* [EM] Pipedrive: https://www.pipedrive.com/en/jobs
-* Crystal sol: http://www.crystalsol.com/
-* Agrello
-* Change: https://getchange.com/careers/
-* [EM] Starship Technologies: https://www.starship.xyz/careers/
-* Realeyes: https://www.realeyesit.com/careers
-* [EM] Zeroturnaround: https://zeroturnaround.com/company/careers/
-* [EM] Monese: https://monese.workable.com/
-* GrabCad: http://resources.grabcad.com/jobs/
-* [EM] Fortumo: https://fortumo.com/careers/
+| Company | Investment | EstonianMafia? | Careers link
+| - | - | - | -
+| Transferwise | €396.4m | Yes | https://transferwise.com/jobs/
+| Skeleton Technologies | €51.0m | Yes | https://www.skeletontech.com/careers
+| Adcash | €49.9m | Yes | https://www.adcash.com/careers/
+| Pipedrive | €34.7m | Yes | https://www.pipedrive.com/en/jobs
+| crystalsol | €28.0m | - | http://www.crystalsol.com/
+| Agrello | €26.1m | - | 
+| Change | €17.5m | - | https://getchange.com/careers/
+| Starship Technologies | €17.2m | Yes | https://www.starship.xyz/careers/
+| RealEyes | €16.2m | - | https://www.realeyesit.com/careers
+| ZeroTurnaround | €16.0m | Yes | https://zeroturnaround.com/company/careers/
+| Monese | €16.0m | Yes | https://monese.workable.com/
+| GrabCAD | €14.3m | Yes | http://resources.grabcad.com/jobs/
+| Fortumo | €10.0m | Yes | https://fortumo.com/careers/
+| Lingvist | €9.5m | Yes | https://lingvist.com/jobs/
+| Click&Grow | €9.0m | - | https://eu.clickandgrow.com/pages/jobs
 
 ### Over 1 million euro investment
-* [EM] Lingvist: https://lingvist.com/jobs/
-* Click&Grow: https://eu.clickandgrow.com/pages/jobs
+
 * Bondora
 * Jobbatical
 * [EM] Testlio: https://testlio.com/jobs/#otherwise-talented
