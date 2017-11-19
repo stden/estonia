@@ -18,7 +18,6 @@ Others: https://www.tootukassa.ee/eng/content/looking-job/other-job-portals
 ## European Sites
 
 * EPSO: https://epso.europa.eu/apply/job-offers_en?contract=All&grade=All&institution=All&location=203
-* https://magicmondayz.com/
 
 ## Global sites
 
