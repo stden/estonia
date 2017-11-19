@@ -78,18 +78,24 @@ Below are companies who are listed in http://www.startupestonia.ee/startups . On
 | VitalFields | €2.2m | - | https://www.vitalfields.com/en/talent
 | Insly | €2.2m | - | https://www.insly.com/en/blog/category/job-openings/
 | Taxify | €2.2m | Yes | 
+||||
 | Scoro | €1.9m | - | https://www.scoro.com/careers/
 | Plumbr | €1.8m | - | https://plumbr.io/join-us
 | Startup Wise Guys | €1.8m | - | 
 | Fleep | €1.7m | - | 
 | Relax Gaming | €1.7m | - | https://relax-gaming.com/jobs/
 | Investorise | €1.7m | - | 
+| Nordic Automation Systems | €1.6m | - | 
+| Investly | €1.4m | - | https://investly.workable.com/
+| Digital sputnik | €1.4m | - | 
+| Autobahn | €1.4m | - | 
+| Sympower | €1.2m | - | https://www.sympower.net/about/careers
+| High Mobility | €1.2m | - | 
+| Sportlyzer | €1.1m | - | 
 
 
 * Creative mobile: https://zeroturnaround.com/company/careers/#careers-lever
-* Investly: https://investly.workable.com/
 * Qminder: https://www.qminder.com/jobs/
-* SymPower: https://www.sympower.net/about/careers
 
 
 ## Other Estonian Companies
