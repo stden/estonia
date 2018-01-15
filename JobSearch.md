@@ -5,6 +5,9 @@
 * https://www.workinestonia.com/latest-offers/
 * https://www.tootukassa.ee/eng
 
+## Estonian Mobile Applications
+* https://meetfrank.com/
+
 ## Estonian sites
 
 * http://www.cv.ee/english/
