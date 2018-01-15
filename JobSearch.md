@@ -71,7 +71,7 @@ Below are companies who are listed in http://www.startupestonia.ee/startups . On
 | Link Labs | €6.0m | - | 
 | Planet OS | €5.8m | - | 
 ||||
-| Erply | €4.2m | - | 
+| **Erply** | €4.2m | - | [Careers](https://erply.com/careers/)
 | Optofluid Technologies | €3.6m | - | 
 | Defendec | €3.3m | - | 
 | Teleport | €2.5m | - | 
