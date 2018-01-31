@@ -13,3 +13,6 @@
 ## Transportation
 
 * Public transport planning: https://soiduplaan.tallinn.ee/
+
+## Things to do
+* https://www.visittallinn.ee/eng/visitor/discover/blog/100-things-to-do
