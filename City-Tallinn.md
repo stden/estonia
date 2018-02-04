@@ -16,3 +16,4 @@
 
 ## Things to do
 * https://www.visittallinn.ee/eng/visitor/discover/blog/100-things-to-do
+* Secret Path - Tallinn - https://itunes.apple.com/ee/app/secret-path-tallinn/id1260611137?mt=8
