@@ -1,6 +1,11 @@
 # About Estonia
 
 ## Country Indexes
+
+Todo:
+* https://en.wikipedia.org/wiki/List_of_top_international_rankings_by_country
+* https://en.wikipedia.org/wiki/List_of_international_rankings
+
 * Corruption: https://www.transparency.org/news/feature/corruption_perceptions_index_2017
 * HDI: https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index
 
