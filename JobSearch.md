@@ -5,10 +5,14 @@
 * https://www.workinestonia.com/latest-offers/
 * https://www.tootukassa.ee/eng
 
+## School websites
+* https://www.ttu.ee/faculties/school-of-information-technologies/it-studies/internship-13/internship-and-job-offers/
+
 ## Estonian Mobile Applications
+
 * https://meetfrank.com/
 
-## Estonian sites
+## Estonian job portals
 
 * http://www.cv.ee/english/
 * https://www.cvkeskus.ee/
