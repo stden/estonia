@@ -8,6 +8,9 @@ https://ipatsient.itk.ee/
 
 http://ec.europa.eu/social/main.jsp?catId=563&langId=en
 
+- Massage center - http://massaaz.ee/en/
+- Health center (family doctor) - http://www.qvalitas.ee/en/
+
 ## Health Insurance
 * https://www.haigekassa.ee/en/health-insurance
 
