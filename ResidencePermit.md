@@ -13,6 +13,7 @@ Required:
 - Data of close relatives https://www2.politsei.ee/dotAsset/527909.pdf
 - Marriage certificate
 
+Instructions:
 - Sign all documents required for application digitally in one container
 - Digital colour photo (minimum size is 480х600 pixels)
 - Send the signed container to an address ppa@politsei.ee. The subject of an e-mail, please write: „Residence permit application“
